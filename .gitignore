@@ -1,0 +1,7 @@
+build/
+generated/embedded_assets.h
+*.o
+*.out
+.vscode/
+docs~$*
+docs/
