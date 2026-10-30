@@ -242,3 +242,4 @@ Options: `./build/hospital_scheduler --port 9000 --tick-seconds 1` (`--tick-seco
 ## 18. Future enhancements
 
 Preemptive variant, manual bed release, multiple wards, file persistence, a heap-based queue, per-minute utilization history.
+
